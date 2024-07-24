@@ -1,15 +1,15 @@
-## PhisTrap APIs
+# PhisTrap APIs
 
-<u>/spam-detection</u>
+**/spam-detection**
 
-# Request:
+## Request:
 ![image](https://github.com/user-attachments/assets/6fb467dc-13f8-458a-9900-e27410e1eeb8)
 
-# Response:
+## Response:
 ![image](https://github.com/user-attachments/assets/3fc279c2-6903-4c15-b479-b5e186a01dd1)
 
 
-<u>/url-content-analyze</u>
+**/url-content-analyze**
 
 # Request:
 ![image](https://github.com/user-attachments/assets/24f16012-dcd8-48e8-a79f-8ae1ee9cce20)
